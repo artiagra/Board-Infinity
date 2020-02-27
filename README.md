@@ -1,2 +1,1 @@
-# Board-Infinity
-Assignments 
+this is readme file
